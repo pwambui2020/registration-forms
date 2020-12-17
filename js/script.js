@@ -23,3 +23,6 @@ fetch('http://127.0.0.1:8000/api/register/', {
     .then(data => console.log(data))
     .catch(error => console.log('ERROR'))
 })
+
+
+
